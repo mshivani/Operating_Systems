@@ -1,0 +1,185 @@
+Script started on Fri 19 Feb 2016 11:27:29 PM EST
+[7mmlb1[27m[31] [~/cisc361/hw1/]$ ./mp3
+Enter a number:
+ 1) add MP3 data to the list 
+ 2) delete MP3 data to the list? 
+ 3) Print the list form begenning to end 
+ 4) print the list from end to begenning 
+1
+
+option 1 selected
+Enter name of artist: artist
+Enter name of album: album
+Enter name of song: song
+Enter release date of song: 1/2/13
+Enter run time of song in seconds: 123
+
+Enter 1 to continue and any other key to exit the program: 1
+Enter a number:
+ 1) add MP3 data to the list 
+ 2) delete MP3 data to the list? 
+ 3) Print the list form begenning to end 
+ 4) print the list from end to begenning 
+1
+
+option 1 selected
+Enter name of artist: artist2
+Enter name of album: album2
+Enter name of song: song2
+Enter release date of song: 3/14/15
+Enter run time of song in seconds: 154
+
+Enter 1 to continue and any other key to exit the program: 1
+Enter a number:
+ 1) add MP3 data to the list 
+ 2) delete MP3 data to the list? 
+ 3) Print the list form begenning to end 
+ 4) print the list from end to begenning 
+1
+
+option 1 selected
+Enter name of artist: artist3
+Enter name of album: album3
+Enter name of song: song3
+Enter release date of song: 4/2/15
+Enter run time of song in seconds: 35
+
+Enter 1 to continue and any other key to exit the program: 1
+Enter a number:
+ 1) add MP3 data to the list 
+ 2) delete MP3 data to the list? 
+ 3) Print the list form begenning to end 
+ 4) print the list from end to begenning 
+artist4         1
+
+option 1 selected
+Enter name of artist: artist4
+Enter name of album: album4
+Enter name of song: song4
+Enter release date of song: 1/15/16
+Enter run time of song in seconds: 56
+
+Enter 1 to continue and any other key to exit the program: 1
+Enter a number:
+ 1) add MP3 data to the list 
+ 2) delete MP3 data to the list? 
+ 3) Print the list form begenning to end 
+ 4) print the list from end to begenning 
+3
+Forward: artist
+ album
+ song
+ 1/2/13
+ 123  
+artist2
+ album2
+ song2
+ 3/14/15
+ 154  
+artist3
+ album3
+ song3
+ 4/2/15
+ 35  
+artist4
+ album4
+ song4
+ 1/15/16
+ 56  
+
+Enter 1 to continue and any other key to exit the program: 1
+Enter a number:
+ 1) add MP3 data to the list 
+ 2) delete MP3 data to the list? 
+ 3) Print the list form begenning to end 
+ 4) print the list from end to begenning 
+4
+Backwards: artist4
+ album4
+ song4
+ 1/15/16
+ 56  
+artist3
+ album3
+ song3
+ 4/2/15
+ 35  
+artist2
+ album2
+ song2
+ 3/14/15
+ 154  
+artist
+ album
+ song
+ 1/2/13
+ 123  
+
+Enter 1 to continue and any other key to exit the program: 1
+Enter a number:
+ 1) add MP3 data to the list 
+ 2) delete MP3 data to the list? 
+ 3) Print the list form begenning to end 
+ 4) print the list from end to begenning 
+2
+
+option 2 selected
+Enter name of artist: artist3
+informationinside deleteinside whileinside else no equalinside whileinside else no equalinside whileinside else if temp prev not null
+Enter 1 to continue and any other key to exit the program: 1
+Enter a number:
+ 1) add MP3 data to the list 
+ 2) delete MP3 data to the list? 
+ 3) Print the list form begenning to end 
+ 4) print the list from end to begenning 
+3
+Forward: artist
+ album
+ song
+ 1/2/13
+ 123  
+artist2
+ album2
+ song2
+ 3/14/15
+ 154  
+artist4
+ album4
+ song4
+ 1/15/16
+ 56  
+
+Enter 1 to continue and any other key to exit the program: 1
+Enter a number:
+ 1) add MP3 data to the list 
+ 2) delete MP3 data to the list? 
+ 3) Print the list form begenning to end 
+ 4) print the list from end to begenning 
+2
+
+option 2 selected
+Enter name of artist: artist2
+informationinside deleteinside whileinside else no equalinside whileinside else if temp prev not null
+Enter 1 to continue and any other key to exit the program: 1
+Enter a number:
+ 1) add MP3 data to the list 
+ 2) delete MP3 data to the list? 
+ 3) Print the list form begenning to end 
+ 4) print the list from end to begenning 
+3
+Forward: artist
+ album
+ song
+ 1/2/13
+ 123  
+artist4
+ album4
+ song4
+ 1/15/16
+ 56  
+
+Enter 1 to continue and any other key to exit the program: e
+[7mmlb1[27m[32] [~/cisc361/hw1/]$ exit
+exit
+
+Script done on Fri 19 Feb 2016 11:29:33 PM EST
